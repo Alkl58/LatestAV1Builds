@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<Update>
-		<AppVeyorAomVersion>2020.08.03</AppVeyorAomVersion>
-		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/77pekiw5qiilmm4g/artifacts/aomenc.exe</AppVeyorAomUrl>
+		<AppVeyorAomVersion>2020.08.04</AppVeyorAomVersion>
+		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/uxx1xfp7cfpiy4a8/artifacts/aomenc.exe</AppVeyorAomUrl>
 		<GithubRav1eVersion>2020.07.28</GithubRav1eVersion>
 		<GithubRav1eUrl>https://github.com/xiph/rav1e/releases/download/p20200728/rav1e.exe</GithubRav1eUrl>
 		<GithubSVTVersion>2020.06.26</GithubSVTVersion>
