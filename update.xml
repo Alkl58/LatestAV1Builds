@@ -2,15 +2,11 @@
 	<Update>
 		<AppVeyorAomVersion>2020.08.03</AppVeyorAomVersion>
 		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/77pekiw5qiilmm4g/artifacts/aomenc.exe</AppVeyorAomUrl>
-		<JeremyAomVersion>2020.08.02</JeremyAomVersion>
 		<GithubRav1eVersion>2020.07.28</GithubRav1eVersion>
 		<GithubRav1eUrl>https://github.com/xiph/rav1e/releases/download/p20200728/rav1e.exe</GithubRav1eUrl>
-		<JeremyRav1eVersion>2020.08.02</JeremyRav1eVersion>
 		<GithubSVTVersion>2020.06.26</GithubSVTVersion>
 		<GihubSVTUrlEnc>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1EncApp.exe</GihubSVTUrlEnc>
 		<GithubSVTUrlLib>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1Enc.lib</GithubSVTUrlLib>
-		<JeremySvtav1Version>2020.08.02</JeremySvtav1Version>
 		<ZeranoeVersion>2020.08.02</ZeranoeVersion>
 		<ZeranoeVersionUrl>https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20200802-b48397e-win64-static.zip</ZeranoeVersionUrl>
-		<JeremyFfmpegVersion>2020.08.02</JeremyFfmpegVersion>
 	</Update>
