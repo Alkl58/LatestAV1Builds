@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<Update>
-		<AppVeyorAomVersion>2020.08.04</AppVeyorAomVersion>
-		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/uxx1xfp7cfpiy4a8/artifacts/aomenc.exe</AppVeyorAomUrl>
-		<GithubRav1eVersion>2020.07.28</GithubRav1eVersion>
-		<GithubRav1eUrl>https://github.com/xiph/rav1e/releases/download/p20200728/rav1e.exe</GithubRav1eUrl>
+		<AppVeyorAomVersion>2020.08.05</AppVeyorAomVersion>
+		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/ngqu8ga4wk702jw2/artifacts/aomenc.exe</AppVeyorAomUrl>
+		<GithubRav1eVersion>2020.08.04</GithubRav1eVersion>
+		<GithubRav1eUrl>https://github.com/xiph/rav1e/releases/download/p20200804/rav1e.exe</GithubRav1eUrl>
 		<GithubSVTVersion>2020.06.26</GithubSVTVersion>
 		<GihubSVTUrlEnc>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1EncApp.exe</GihubSVTUrlEnc>
 		<GithubSVTUrlLib>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1Enc.lib</GithubSVTUrlLib>
