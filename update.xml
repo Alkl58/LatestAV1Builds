@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<Update>
-		<AppVeyorAomVersion>2020.08.06</AppVeyorAomVersion>
-		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/00isg4d1q0nxh2f1/artifacts/aomenc.exe</AppVeyorAomUrl>
+		<AppVeyorAomVersion>2020.08.07</AppVeyorAomVersion>
+		<AppVeyorAomUrl>https://ci.appveyor.com/api/buildjobs/bdkvhnne4p5u0ys0/artifacts/aomenc.exe</AppVeyorAomUrl>
 		<GithubRav1eVersion>2020.08.04</GithubRav1eVersion>
 		<GithubRav1eUrl>https://github.com/xiph/rav1e/releases/download/p20200804/rav1e.exe</GithubRav1eUrl>
 		<GithubSVTVersion>2020.06.26</GithubSVTVersion>
 		<GihubSVTUrlEnc>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1EncApp.exe</GihubSVTUrlEnc>
 		<GithubSVTUrlLib>https://github.com/OpenVisualCloud/SVT-AV1/releases/download/v0.8.4/SvtAv1Enc.lib</GithubSVTUrlLib>
-		<ZeranoeVersion>2020.08.02</ZeranoeVersion>
-		<ZeranoeVersionUrl>https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20200802-b48397e-win64-static.zip</ZeranoeVersionUrl>
+		<ZeranoeVersion>2020.08.07</ZeranoeVersion>
+		<ZeranoeVersionUrl>https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20200807-fab00b0-win64-static.zip</ZeranoeVersionUrl>
 	</Update>
